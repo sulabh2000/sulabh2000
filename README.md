@@ -1,6 +1,6 @@
 ### Hi there, I'm Sulabh  👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/bansalsulabh12?logo=Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bansalsulabh12?logo=Twitter&style=for-the-badge)](https://twitter.com/bansalsulabh12)
 
 ## I'm a Student, System Administrator, Ansible Specialist, and Developer!!
 
