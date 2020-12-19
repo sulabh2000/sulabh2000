@@ -34,6 +34,14 @@
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Sulabh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sulabh2000&show_icons=true&hide_border=true" />
+
+</details>
 
 [twitter]: https://twitter.com/bansalsulabh12
 [instagram]: https://instagram.com/sulabh123
