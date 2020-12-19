@@ -1,5 +1,7 @@
 ### Hi there, I'm Sulabh  👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/bansalsulabh12?logo=Twitter&style=for-the-badge)
+
 ## I'm a Student, System Administrator, Ansible Specialist, and Developer!!
 
 - 🔭 I have a great interest in DevOps and Cloud Computing
@@ -29,7 +31,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][website]
-[<img align="left" alt="Flutter" width="26px" height="30px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" />][website]
+[<img align="left" alt="Flutter" width="26px" height="30px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" />][flutter]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
@@ -54,3 +56,4 @@
 [instagram]: https://instagram.com/sulabh123
 [linkedin]: https://linkedin.com/in/sulabh-bansal-293656159
 [website]: https://google.com
+[flutter]: https://flutter.dev
