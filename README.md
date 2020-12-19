@@ -1,6 +1,7 @@
 ### Hi there, I'm Sulabh  👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bansalsulabh12?logo=Twitter&style=for-the-badge)](https://twitter.com/bansalsulabh12)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://linkedin.com/in/sulabh-bansal-293656159)
 
 ## I'm a Student, System Administrator, Ansible Specialist, and Developer!!
 
@@ -10,10 +11,6 @@
 - 🎉 DevOps Tools: I have worked on Docker, Kubernetes and Jenkins.
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Travel and listen songs
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sulabh's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
